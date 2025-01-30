@@ -22,9 +22,9 @@
  * THE SOFTWARE.
  */
 
-package testt;
+package test;
 
-import org.junit.Test;
+import org.junit.Testt;
 
 public class OtherTest extends Base {
 
