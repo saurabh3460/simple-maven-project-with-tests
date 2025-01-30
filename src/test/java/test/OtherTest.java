@@ -24,7 +24,7 @@
 
 package test;
 
-import org.junit.Testt;
+import org.junit.Test;
 
 public class OtherTest extends Base {
 
